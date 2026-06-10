@@ -146,3 +146,9 @@ Open `stage3_brevo.py` and edit the `compose_email()` function. The subject line
 | Apollo  | 75 credits/month                   |
 | Prospeo | 50 searches/day, 50 enrichments/day |
 | Brevo   | 300 emails/day                     |
+
+---
+
+## Contributors
+
+- [Jayant](https://github.com/jayant200803)
